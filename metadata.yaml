@@ -1,0 +1,47 @@
+_repo: Reflections--or-Sentences-and-Moral-Maxims_9105
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Willis Bund, J. W. (John William)
+    aliases:
+    - Willis-Bund, John William Bund
+    - Bund, J. W. Willis (John William Willis)
+    birthdate: 1843
+    deathdate: 1928
+    gutenberg_agent_id: '4546'
+    url: http://www.gutenberg.org/2009/agents/4546
+    wikipedia: http://en.wikipedia.org/wiki/John_William_Willis-Bund
+  - agent_name: Friswell, J. Hain (James Hain)
+    aliases:
+    - Friswell, James Hain
+    - Friswell, Hain
+    birthdate: 1825
+    deathdate: 1878
+    gutenberg_agent_id: '4547'
+    url: http://www.gutenberg.org/2009/agents/4547
+creator:
+  author:
+    agent_name: La Rochefoucauld, François duc de
+    aliases:
+    - Rochefoucauld, François duc de la
+    - La Rochefoucauld, Francois duc de
+    birthdate: 1613
+    deathdate: 1680
+    gutenberg_agent_id: '5749'
+    url: http://www.gutenberg.org/2009/agents/5749
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld_%28writer%29
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maxims'
+- !lcc 'PQ'
+- GITenberg
+title: Reflections; or Sentences and Moral Maxims
+url: http://www.gutenberg.org/ebooks/9105
